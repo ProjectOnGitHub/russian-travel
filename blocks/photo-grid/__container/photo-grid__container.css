@@ -1,16 +1,9 @@
 .photo-grid__container {
-<<<<<<< HEAD
   margin: 0 0 92px;
-=======
-  margin-bottom: 92px;
->>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
   min-width: 284px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   gap: 16px;
-<<<<<<< HEAD
   width: 100%;
-=======
->>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
 }
 

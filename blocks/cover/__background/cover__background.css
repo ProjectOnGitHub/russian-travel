@@ -1,5 +1,4 @@
 .cover__background {
-<<<<<<< HEAD
   background: url(../../../images/cover-trains.jpg) no-repeat;
   background-size: cover;
   display: flex;
@@ -10,7 +9,4 @@
   justify-content: center;
   position: relative;
 
-=======
-  max-width: 100%;
->>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
 }

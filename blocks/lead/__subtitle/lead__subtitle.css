@@ -1,14 +1,7 @@
 .lead__subtitle {
   max-width: 640px;
-<<<<<<< HEAD
   text-align: center;
   margin: 0 0 64px;
-=======
-  min-width: 288px;
-  min-height: 40px;
-  text-align: center;
-  margin: 0 auto 64px;
->>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
   font-size: 30px;
   line-height: 1.2;
 }
