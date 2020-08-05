@@ -13,6 +13,6 @@
 }
 
 .cover__overlay:hover {
-  background: #2A2C2F;
-  opacity: 0.3;
+  background: rgba(42, 44, 47, 0.3);
+  transition: 0.5s ease-in-out;
 }
