@@ -1,7 +1,17 @@
 .place {
-  margin-bottom: 80px;
+  max-width: 984px;
+  margin: 0 auto 80px;
   display: grid;
+<<<<<<< HEAD
   grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+=======
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+>>>>>>> 10c1c7ae27b0af929ba5d3594f9771b4a63c0ff0
   grid-template-rows: auto;
   gap: 48px 40px;
+}
+
+
+.place:last-child {
+  margin-bottom: 92px;
 }
