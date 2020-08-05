@@ -1,6 +1,11 @@
 .lead__title {
   max-width: 720px;
+<<<<<<< HEAD
   margin: 0 0 36px;
+=======
+  min-width: 320px;
+  margin: 0 auto 36px;
+>>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
   font-size: 96px;
   font-weight: 900;
   line-height: 1.05;

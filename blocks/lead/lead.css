@@ -1,8 +1,13 @@
 .lead {
+<<<<<<< HEAD
   max-width: 984px;
   margin: 0 auto;
   display: flex;
   flex-flow: column wrap;
   align-content: start;
   align-items: center;
+=======
+  margin: 0 auto;
+  max-width: 984px;
+>>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
 }

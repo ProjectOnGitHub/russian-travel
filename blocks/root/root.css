@@ -7,7 +7,12 @@
 .root {
   margin: 0 auto;
   background-color: #2a2c2f;
+<<<<<<< HEAD
    max-width: 1184px;
+=======
+  min-width: 320px;
+  max-width: 1280px;
+>>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
   font: normal 18px/30px 'Inter', Arial, sans-serif;
   color: #fff;
   -webkit-text-size-adjust: auto;

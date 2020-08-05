@@ -1,4 +1,5 @@
 .place {
+<<<<<<< HEAD
   max-width: 984px;
   margin: 0 auto 80px;
   display: grid;
@@ -15,3 +16,11 @@
 .place:last-child {
   margin-bottom: 92px;
 }
+=======
+  margin-bottom: 80px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  grid-template-rows: auto;
+  gap: 48px 40px;
+}
+>>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6

@@ -1,4 +1,11 @@
 .lead__cover {
+<<<<<<< HEAD
   margin: 0 0 92px;
   width: 100%;
+=======
+  display: flex;
+  flex-flow: column;
+  margin: 0 auto;
+  max-width: 984px;
+>>>>>>> ac9c2e21c5a27d772041f47025095caa12701cb6
 }
