@@ -11,13 +11,14 @@
     padding: 28px 48px 48px;
   }
 }
+
 @media screen and (max-width: 999px) and (min-width: 700px) {
 	.header__container {
     padding: 28px 24px 48px;
   }
 }
 
-@media screen and (max-width: 699px) and (min-width: 400px) {
+@media screen and (max-width: 699px) and (min-width: 319px) {
 	.header__container {
     padding: 16px 16px 48px;
   }
