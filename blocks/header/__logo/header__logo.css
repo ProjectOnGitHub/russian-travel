@@ -1,6 +1,9 @@
 .header__logo {
-  min-width: 142px;
-  max-width: 179px;
-  /*  min-height: 142px; # возможно, не надо указывать высоту
-  max-height: 52px; # возможно, не надо указывать высоту */
+  max-width: 176px;
+}
+
+@media screen and (max-width: 475px) {
+	.header__logo {
+    max-width: 142px;
+  }
 }

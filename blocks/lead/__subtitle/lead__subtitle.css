@@ -12,14 +12,14 @@
   }
 }
 
-@media screen and (max-width: 767px) and (min-width: 426px) {
+@media screen and (max-width: 767px) and (min-width: 476px) {
 	.lead__subtitle {
     font-size: 24px;
     max-width: 464px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 475px) {
 	.lead__subtitle {
     font-size: 16px;
     margin-bottom: 40px;
