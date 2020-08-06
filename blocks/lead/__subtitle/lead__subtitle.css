@@ -6,7 +6,7 @@
   line-height: 1.2;
 }
 
-@media screen and (max-width: 1279px) and (min-width: 767px) {
+@media screen and (max-width: 1279px) and (min-width: 768px) {
 	.lead__subtitle {
     margin-bottom: 56px;
   }
@@ -16,6 +16,7 @@
 	.lead__subtitle {
     font-size: 24px;
     max-width: 464px;
+    margin-bottom: 48px;
   }
 }
 

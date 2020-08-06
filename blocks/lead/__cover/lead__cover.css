@@ -3,3 +3,15 @@
   width: 100%;
   max-width: 984px;
 }
+
+@media screen and (max-width: 768px) and (min-width: 476px) {
+	.lead__cover {
+    margin-bottom: 78px;
+  }
+}
+
+@media screen and (max-width: 475px) {
+	.lead__cover {
+    margin-bottom: 64px;
+  }
+}
