@@ -3,7 +3,19 @@
   width: 100%;
   max-width: 984px;
   display: flex;
-  flex-flow: column wrap-reverse;
+  flex-flow: column wrap;
+}
+
+@media screen and (max-width: 1080px) and (min-width: 1025px) {
+	.lead__cover {
+    max-width: 956px;
+  }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+	.lead__cover {
+    max-width: 928px;
+  }
 }
 
 @media screen and (max-width: 768px) and (min-width: 476px) {
