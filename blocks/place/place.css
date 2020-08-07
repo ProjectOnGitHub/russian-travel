@@ -42,6 +42,7 @@
 	.place {
     margin-bottom: 48px;
     grid-template-columns: 1fr;
+    row-gap: 32px;
   }
   .place:last-child {
     margin-bottom: 64px;
