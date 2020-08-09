@@ -2,6 +2,23 @@
   max-width: 100%;
   font-size: 16px;
   line-height: 1.125;
-  padding: 0 0 24px 0;
+  padding: 0 0 24px 48px;
 }
 
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+	.footer__menu {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+	.footer__menu {
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+	.footer__menu {
+    padding-left: 16px;
+  }
+}
