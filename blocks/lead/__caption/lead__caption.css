@@ -6,19 +6,19 @@
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 1080px) and (min-width: 1025px) {
+@media screen and (max-width: 1080px) {
 	.lead__caption {
     max-width: 956px;
   }
 }
 
-@media screen and (max-width: 1024px) and (min-width: 985px) {
+@media screen and (max-width: 1024px) {
 	.lead__caption {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width: 984px) and (min-width: 425px) {
+@media screen and (max-width: 984px) {
 	.lead__caption {
     padding-left: 24px;
   }

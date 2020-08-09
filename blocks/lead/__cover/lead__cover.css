@@ -6,19 +6,19 @@
   flex-flow: column wrap;
 }
 
-@media screen and (max-width: 1080px) and (min-width: 1025px) {
+@media screen and (max-width: 1080px) {
 	.lead__cover {
     max-width: 956px;
   }
 }
 
-@media screen and (max-width: 1024px) and (min-width: 769px) {
+@media screen and (max-width: 1024px) {
 	.lead__cover {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width: 768px) and (min-width: 476px) {
+@media screen and (max-width: 768px) {
 	.lead__cover {
     margin-bottom: 88px;
   }

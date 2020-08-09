@@ -41,10 +41,11 @@
 
 @media screen and (max-width: 767px) {
 	.place {
-    max-width: 720px;
+    max-width: 100%;
     margin-bottom: 48px;
     grid-template-columns: 1fr;
     row-gap: 32px;
+    padding: 0;
   }
   .place:last-child {
     margin-bottom: 64px;
