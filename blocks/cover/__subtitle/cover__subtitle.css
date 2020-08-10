@@ -4,9 +4,6 @@
   text-align: center;
   font-size: 18px;
   line-height: 1.2;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   z-index: 1;
 }
 
